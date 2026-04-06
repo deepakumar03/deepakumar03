@@ -2,7 +2,7 @@
 
 🎓 **B.Tech Information Technology**  
 Dhirajlal Gandhi College of Technology (2022–2026)  
-CGPA: 7.31 / 10
+CGPA: 7.37 / 10
 
 ---
 
