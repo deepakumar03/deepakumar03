@@ -1,57 +1,56 @@
 # 👋 Hi, I'm Deepa Kumar S
 
-🎓 **B.Tech Information Technology**  
-Dhirajlal Gandhi College of Technology (2022–2026)  
+*🎓 B.Tech Information Technology
+Dhirajlal Gandhi College of Technology (2022–2026)
 CGPA: 7.37 / 10
 
----
 
-## 🧑‍💻 About Me
+🧑‍💻 About Me
+I'm a passionate Java Full Stack Developer with a strong foundation in Java, Spring Boot, MySQL, HTML, CSS, JavaScript, and React. I recently completed my B.Tech in Information Technology and am currently undergoing Java Full Stack Development training at TAP Academy, Bengaluru, where I'm enhancing my skills in backend development, frontend technologies, database management, REST APIs, and industry best practices.
+I enjoy building scalable, user-friendly web applications that solve real-world problems. I'm passionate about writing clean, maintainable code, continuously improving my problem-solving abilities, and learning modern technologies to become a proficient software engineer.
 
-I'm a passionate **Full-Stack Python Developer** with strong expertise in the **Django framework** and modern web technologies. I love building end-to-end web applications and exploring data-driven solutions. I thrive in both **frontend** and **backend** environments, and my focus is on clean code, problem-solving, and real-world impact.
 
----
+🛠 Tech Stack
+Languages: Java, JavaScript
+Frontend: HTML5, CSS3, JavaScript, React
+Backend: Spring Boot
+Database: MySQL
+Version Control: Git, GitHub
+Tools: IntelliJ IDEA, Eclipse, VS Code
+Core Java: OOP, Collections, Exception Handling, JDBC
+Other: REST APIs, Responsive Web Design, Basic UI/UX Principles
 
-## 🛠 Tech Stack
 
-- **Languages:** Python (Intermediate), Java (Basic)
-- **Web Frameworks:** Django
-- **Libraries:** Pandas, NumPy
-- **Database:** MySQL
-- **Tools & Platforms:** Git, GitHub
-- **Debugging & Testing:** Basic debugging with Python
-- **Others:** CSV/JSON data handling, sentiment analysis, UI/UX principles
+🧠 Skills
+💡 Problem Solving & Data Structures
+☕ Core Java & Object-Oriented Programming
+🌐 Java Full Stack Web Development
+🗄 Database Design & MySQL
+🔗 REST API Development
+📱 Responsive Web Design
+🤝 Team Collaboration & Version Control
 
----
 
-## 🧠 Skills
+📂 Projects
+🏙 Multimodal Civic Issue Intelligence for Predictive Urban Service Insights and Real-Time Governance Analytics
+Developed a full-stack web application using Spring Boot, MySQL, HTML, CSS, and JavaScript.
+Implemented secure user authentication and role-based access control.
+Built dashboards for users, administrators, and departments.
+Developed REST APIs for seamless frontend-backend communication.
+Designed a responsive interface to improve user experience.
 
-- 💡 Problem-Solving & Algorithm Design
-- 🧪 Data Processing & Sentiment Analysis
-- 🔍 Comment Filtering & Crawling
-- 🧰 Full Stack Web Development (Python + Django)
 
----
+💼 Java Full Stack Web Applications
+Developed responsive web applications using Java, Spring Boot, React, and MySQL.
+Implemented CRUD operations, authentication, form validation, and database integration.
+Followed clean coding practices and MVC architecture for maintainable applications.
 
-## 📂 Projects
 
-### 🕵️‍♂️ **Comment Crawler**
-- Extracts YouTube comments without using the official API
-- Performs sentiment analysis (positive, negative, neutral)
-- Filters comments based on length, keywords, or user
-- Exports data into CSV/JSON
-
-### 🔒 **Stealth Mark**
-- Privacy-focused comment filtering tool using Python
-- Incorporates user-defined keyword and length filters
-
----
-
-## 📜 Certifications
-
-- ✅ NPTEL: Joy of Computing using Python
-- ✅ Oracle: AI Foundations Associate
-- ✅ GUVI: UI & UX Design
+📜 Certifications
+✅ Full Stack Java Development – TAP Academy
+✅ Oracle AI Foundations Associate
+✅ GUVI UI & UX Design
+✅ NPTEL – JOY OF PYTHON
 
 ---
 
