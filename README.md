@@ -1,5 +1,5 @@
-#Writing
-👋 Hi, I'm Deepak Kumar S
+#👋 Hi, I'm Deepak Kumar S
+
 🎓 B.Tech Information Technology
 Dhirajlal Gandhi College of Technology (2022–2026)
 CGPA: 7.37 / 10
